@@ -1,0 +1,24 @@
+{
+  "name": "create-promise",
+  "version": "1.0.0",
+  "description": "create custom promise",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyWhite/create-promise.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "promise"
+  ],
+  "author": "Dmitriy Sidorov <dmitriywhitex@ya.ru>",
+  "license": "ISC",
+  "browserslist": [
+    "ie >= 10",
+    "last 20 version"
+  ]
+}
